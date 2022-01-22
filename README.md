@@ -1,3 +1,5 @@
+![Roy Sheppard Digital](https://github.com/rsheppard-dev/roysheppard-digital/blob/main/public/images/open-graph.png)
+
 ### Hi there 👋
 
 <!--
